@@ -12,5 +12,5 @@
 
 void main(int argc, char **argv){
 	//Printing function
-	printf("Hello World\n");
+	printf("Hello, my name is Robert Delfin\n");
 }
